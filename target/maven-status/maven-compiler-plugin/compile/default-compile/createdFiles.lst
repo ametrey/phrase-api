@@ -1,0 +1,14 @@
+com\rooftop\seniorityboost\challenge\config\WebConfig.class
+com\rooftop\seniorityboost\challenge\models\exceptions\ControllerExceptionHandler.class
+com\rooftop\seniorityboost\challenge\models\response\GenericResponse.class
+com\rooftop\seniorityboost\challenge\ChallengeApplication.class
+com\rooftop\seniorityboost\challenge\entities\Text.class
+com\rooftop\seniorityboost\challenge\controllers\TextController.class
+com\rooftop\seniorityboost\challenge\services\TextService.class
+com\rooftop\seniorityboost\challenge\models\exceptions\BadRequestException.class
+com\rooftop\seniorityboost\challenge\models\exceptions\NoTextFoundException.class
+com\rooftop\seniorityboost\challenge\repositories\TextRepo.class
+com\rooftop\seniorityboost\challenge\models\exceptions\ErrorMessage.class
+com\rooftop\seniorityboost\challenge\models\request\TextRequest.class
+com\rooftop\seniorityboost\challenge\models\response\TextResponse.class
+com\rooftop\seniorityboost\challenge\models\pagefilter\TextPage.class

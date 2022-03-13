@@ -1,0 +1,14 @@
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\pagefilter\TextPage.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\config\WebConfig.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\response\TextResponse.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\controllers\TextController.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\entities\Text.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\request\TextRequest.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\exceptions\BadRequestException.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\exceptions\ControllerExceptionHandler.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\exceptions\NoTextFoundException.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\services\TextService.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\exceptions\ErrorMessage.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\models\response\GenericResponse.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\ChallengeApplication.java
+d:\Programacion\rooftop\challenge\src\main\java\com\rooftop\seniorityboost\challenge\repositories\TextRepo.java
