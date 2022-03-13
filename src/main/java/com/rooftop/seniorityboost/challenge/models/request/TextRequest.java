@@ -3,7 +3,7 @@ package com.rooftop.seniorityboost.challenge.models.request;
 public class TextRequest {
 
     public String text;
-    public Integer chars;
+    public Integer chars = 2;
 
     public Integer validateCharsNumber(String str, Integer chars) {
 
