@@ -54,7 +54,7 @@ public class TextController {
         TextResponse response = new TextResponse();
 
         if (textReq.text != null && !textReq.text.trim().isEmpty()) {
-            Text text = textService.createText(textReq.text, textReq.validateCharsNumber(textReq.text, textReq.chars));
+            Text text = textService.createText(textReq.text.toLowerCase(), textReq.validateCharsNumber(textReq.text, textReq.chars));
             response.id = text.getId();
             response.url = text.getUrl();
             return ResponseEntity.ok(response);
