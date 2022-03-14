@@ -10,6 +10,8 @@ It handles pagination, filtering and custom exceptions messages.
 
 POSTMAN Doc with endpoints: https://documenter.getpostman.com/view/16169993/UVsJw75t
 
+Demo video: https://drive.google.com/file/d/1UAkJuxmEiPjoAcylShm70o9hhVwsBS4z/view?usp=sharing
+
 On the /target folder is a fat-jar with an embedded Tomcat server (the default port is 8080), so you just open the command console on that folder and execute: java -jar challenge-0.0.1-SNAPSHOT.jar
 
 No authentication needed.
